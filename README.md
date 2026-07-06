@@ -15,7 +15,7 @@ A C++ project focused on building and simulating microwave oven operations.
 
 ### Prerequisites
 - A C++ compiler installed on your system.
-- Make or CMake (if applicable).
+- Make or CMake.
 
 ### Installation & Run
 
